@@ -1,0 +1,12 @@
+{
+  "name": "novel",
+  "scripts": {
+    "start": "node novel.js"
+  },
+  "dependencies": {
+    "@auramarker/epub-gen": "^1.0.5",
+    "epub-gen": "^0.1.0",
+    "prettier": "^2.3.1",
+    "puppeteer": "^10.0.0"
+  }
+}
